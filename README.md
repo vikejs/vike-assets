@@ -57,6 +57,6 @@ See:
 
 ## Banner
 
-**banner/vike-banner.png**
+**banner/banner.png**
 
-<img src="./banner/vike-banner.png" height="250" />
+<img src="./banner/banner.png" height="250" />
